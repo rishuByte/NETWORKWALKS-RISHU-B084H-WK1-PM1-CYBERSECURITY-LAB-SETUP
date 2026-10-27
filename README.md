@@ -143,7 +143,7 @@ Cybersecurity Intern — Networkwalks
 ![IPv4 Settings](04_kali_ipv4_settings.jpg)
 
 ### Internet Testing
-![Kali Desktop](Analysis output 14.png)
+![Kali Desktop](05.png)
 
 ## 📄 Project Report
 
