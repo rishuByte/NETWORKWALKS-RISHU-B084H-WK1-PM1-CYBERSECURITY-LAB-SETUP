@@ -128,3 +128,23 @@ Cybersecurity Intern — Networkwalks
 - **Task:** WK1-PM1
 - **Project:** Cybersecurity Lab Setup — VirtualBox & Kali Linux
 - **Repository:** [GitHub Repository](https://github.com/rishuByte/NETWORKWALKS-RISHU-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP)
+
+---
+
+## 📸 Project Screenshots
+
+### VirtualBox VM Overview
+![VirtualBox Overview](01_virtualbox_vm_overview.jpg)
+
+### NAT Network Adapter
+![NAT Network](03_nat_network_adapter.jpg)
+
+### Kali Linux IPv4 Settings
+![IPv4 Settings](04_kali_ipv4_settings.jpg)
+
+### Internet Testing
+![Kali Desktop](Analysis output 14.png)
+
+## 📄 Project Report
+
+[Download Week 1 PDF Report](Week1_Cybersecurity_Lab_Setup_Rishu_B084H.pdf)
